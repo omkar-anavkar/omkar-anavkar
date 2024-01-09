@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,terraform,git,github,python,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,python,docker,terraform,git,github,bash,vscode&theme=light&perline=3)](https://skillicons.dev)
 
 <!--
 **omkar-anavkar/omkar-anavkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
